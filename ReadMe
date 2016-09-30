@@ -1,0 +1,8 @@
+Steps to run code:
+
+1) Ensure the datasets and codes (all .m files) are in the same folder.
+2) Execute main.m
+3) Adjustable parameters are given under the heading "Tunable parameters" on line 21 of main.m
+4) The input for hidden layers should be given as [x y] to initialize two layers containing x and y units respectively
+5) The default settings are: Momentum = 0, Learning rate = 0.1, Regularization = 0, Dropout = 0, epochs = 25, Architecture: 1 hidden layer with 100 units
+  
